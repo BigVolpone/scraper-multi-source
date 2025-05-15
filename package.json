@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "postinstall": "npx playwright install" // Script pour installer les navigateurs Playwright
+    "postinstall": "npx playwright install"
   },
   "dependencies": {
     "playwright": "^1.40.0",
